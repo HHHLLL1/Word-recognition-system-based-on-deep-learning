@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="58dda83a-616a-4172-9d68-aeecc7d41ed5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="376" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="db.sqlite3" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/ocr/PaddleOCR" />
+  </component>
+  <component name="ProjectId" id="1qeGH2rZfG93ViAqAoqY4IXcqTc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/upload" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\GraduationProject\Django_OCR_backend\upload" />
+      <recent name="E:\课程\毕业设计\参考项目\django_ocr\Django_OCR_backend\upload" />
+      <recent name="E:\课程\毕业设计\参考项目\django_ocr\Django_OCR_backend\upload\img" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Django server.Django_OCR_backend">
+    <configuration name="Test: ocr.tests" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="Django_OCR_backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="ocr.tests" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Test: ocr.tests.OcrModelTest.test_get_history_data" type="DjangoTestsConfigurationType" temporary="true">
+      <module name="Django_OCR_backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="TARGET" value="ocr.tests.OcrModelTest.test_get_history_data" />
+      <option name="SETTINGS_FILE" value="" />
+      <option name="CUSTOM_SETTINGS" value="false" />
+      <option name="USE_OPTIONS" value="false" />
+      <option name="OPTIONS" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Django_OCR_backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Django_OCR_backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ocr/dlocr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ocr/dlocr/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ocrTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Django_OCR_backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ocr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ocr/ocrTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="paddleocr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Django_OCR_backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ocr/PaddleOCR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ocr/PaddleOCR/paddleocr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Django_OCR_backend" type="Python.DjangoServer" factoryName="Django server">
+      <module name="Django_OCR_backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="django-ocr-backend.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8001" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="true" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Django server.Django_OCR_backend" />
+      <item itemvalue="Django tests.Test: ocr.tests.OcrModelTest.test_get_history_data" />
+      <item itemvalue="Django tests.Test: ocr.tests" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.ocrTest" />
+      <item itemvalue="Python.paddleocr" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.ocrTest" />
+        <item itemvalue="Django tests.Test: ocr.tests.OcrModelTest.test_get_history_data" />
+        <item itemvalue="Django tests.Test: ocr.tests" />
+        <item itemvalue="Python.paddleocr" />
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58dda83a-616a-4172-9d68-aeecc7d41ed5" name="Default Changelist" comment="" />
+      <created>1617432551062</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617432551062</updated>
+      <workItem from="1617432555302" duration="12000" />
+      <workItem from="1617432580583" duration="4299000" />
+      <workItem from="1617437759105" duration="16680000" />
+      <workItem from="1617468566066" duration="5638000" />
+      <workItem from="1617514340952" duration="4583000" />
+      <workItem from="1617527153311" duration="1423000" />
+      <workItem from="1617542123598" duration="614000" />
+      <workItem from="1617543070785" duration="994000" />
+      <workItem from="1617556352280" duration="4923000" />
+      <workItem from="1617589873199" duration="793000" />
+      <workItem from="1617606207715" duration="763000" />
+      <workItem from="1617613734132" duration="7191000" />
+      <workItem from="1617672665476" duration="9247000" />
+      <workItem from="1617764525470" duration="16932000" />
+      <workItem from="1617843134572" duration="4871000" />
+      <workItem from="1617897743179" duration="5637000" />
+      <workItem from="1617937096761" duration="2128000" />
+      <workItem from="1617945172260" duration="589000" />
+      <workItem from="1617956673256" duration="1968000" />
+      <workItem from="1617963097966" duration="608000" />
+      <workItem from="1617963914335" duration="951000" />
+      <workItem from="1617964878877" duration="409000" />
+      <workItem from="1617965362622" duration="6534000" />
+      <workItem from="1617978630209" duration="6692000" />
+      <workItem from="1618031205577" duration="3259000" />
+      <workItem from="1618041985055" duration="2726000" />
+      <workItem from="1618055655380" duration="1033000" />
+      <workItem from="1618144400445" duration="874000" />
+      <workItem from="1619098186393" duration="1454000" />
+      <workItem from="1619103759786" duration="772000" />
+      <workItem from="1619149096823" duration="489000" />
+      <workItem from="1620371424214" duration="1805000" />
+      <workItem from="1620444608947" duration="10014000" />
+      <workItem from="1620461484759" duration="2656000" />
+      <workItem from="1620471779890" duration="2079000" />
+      <workItem from="1620478008477" duration="826000" />
+      <workItem from="1620482394622" duration="7055000" />
+      <workItem from="1620627514707" duration="600000" />
+      <workItem from="1621231352624" duration="17185000" />
+      <workItem from="1621437494666" duration="811000" />
+      <workItem from="1621524832829" duration="527000" />
+      <workItem from="1621567888026" duration="9265000" />
+      <workItem from="1621584290866" duration="3183000" />
+      <workItem from="1621599110329" duration="607000" />
+      <workItem from="1621991406585" duration="411000" />
+      <workItem from="1621995620801" duration="42000" />
+      <workItem from="1621995684814" duration="968000" />
+      <workItem from="1622020757810" duration="335000" />
+      <workItem from="1622026905110" duration="236000" />
+      <workItem from="1622029031547" duration="202000" />
+      <workItem from="1622100730238" duration="1807000" />
+      <workItem from="1622274506273" duration="3494000" />
+      <workItem from="1622357559272" duration="3414000" />
+      <workItem from="1622377051800" duration="4093000" />
+      <workItem from="1623751094160" duration="2225000" />
+      <workItem from="1623809146419" duration="4106000" />
+      <workItem from="1623821309335" duration="2136000" />
+      <workItem from="1623825483358" duration="3611000" />
+      <workItem from="1623864715951" duration="747000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/ocr/PaddleOCR" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1620462002872">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1617964696176" />
+    <state x="361" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1620462002872" />
+    <state x="522" y="220" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617958000221">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1617958000221" />
+    <state x="522" y="220" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1617785456156" />
+    <state x="549" y="169" key="FileChooserDialogImpl" timestamp="1620461995921">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="169" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1620461995921" />
+    <state width="1493" height="146" key="GridCell.Tab.0.bottom" timestamp="1623832596362">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="236" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1618147160350" />
+    <state width="1493" height="430" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1618033818198" />
+    <state width="1493" height="263" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1617443825263" />
+    <state width="1493" height="146" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1623832596362" />
+    <state width="1493" height="146" key="GridCell.Tab.0.center" timestamp="1623832596362">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="236" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1618147160350" />
+    <state width="1493" height="430" key="GridCell.Tab.0.center/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1618033818198" />
+    <state width="1493" height="263" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1617443825263" />
+    <state width="1493" height="146" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1623832596362" />
+    <state width="1493" height="146" key="GridCell.Tab.0.left" timestamp="1623832596362">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="236" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1618147160350" />
+    <state width="1493" height="430" key="GridCell.Tab.0.left/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1618033818198" />
+    <state width="1493" height="263" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1617443825263" />
+    <state width="1493" height="146" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1623832596362" />
+    <state width="1493" height="146" key="GridCell.Tab.0.right" timestamp="1623832596362">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="236" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1536.824@-1920.0.1536.824" timestamp="1618147160350" />
+    <state width="1493" height="430" key="GridCell.Tab.0.right/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1618033818198" />
+    <state width="1493" height="263" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1536.824@0.0.1536.824" timestamp="1617443825263" />
+    <state width="1493" height="146" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1623832596362" />
+    <state width="212" height="477" key="HiddenNamespacesPopup" timestamp="1620462097397">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="212" height="477" key="HiddenNamespacesPopup/0.0.1536.824@0.0.1536.824" timestamp="1620462097397" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1622357809053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1622357809053" />
+    <state x="562" y="0" width="333" height="231" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1620489199558">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="562" y="0" width="333" height="231" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.824@0.0.1536.824" timestamp="1620489199558" />
+    <state x="499" y="220" key="com.intellij.database.dbimport.ImportUtil.MyDialog" timestamp="1623828210334">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="220" key="com.intellij.database.dbimport.ImportUtil.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1623828210334" />
+    <state x="457" y="172" width="621" height="480" key="find.popup" timestamp="1617964777437">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="457" y="172" width="621" height="480" key="find.popup/0.0.1536.824/-1920.0.1536.824@0.0.1536.824" timestamp="1617964777437" />
+    <state x="457" y="172" width="621" height="480" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1617774430387" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1623821580562">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1623821580562" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Django_OCR_backend$ocrTest.coverage" NAME="ocrTest Coverage Results" MODIFIED="1618033818189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ocr" />
+    <SUITE FILE_PATH="coverage/Django_OCR_backend$main.coverage" NAME="main Coverage Results" MODIFIED="1617965795262" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ocr/dlocr" />
+    <SUITE FILE_PATH="coverage/Django_OCR_backend$ctpn_predict.coverage" NAME="ctpn_predict Coverage Results" MODIFIED="1617964700424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ocr/dlocr" />
+    <SUITE FILE_PATH="coverage/Django_OCR_backend$Test__ocr_tests_OcrModelTest_test_get_history_data.coverage" NAME="Test: ocr.tests.OcrModelTest.test_get_history_data Coverage Results" MODIFIED="1621237724562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Django_OCR_backend$Test__ocr_tests.coverage" NAME="Test: ocr.tests Coverage Results" MODIFIED="1621237367571" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/Django_OCR_backend$densenet_predict.coverage" NAME="densenet_predict Coverage Results" MODIFIED="1617957138716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ocr/dlocr" />
+    <SUITE FILE_PATH="coverage/Django_OCR_backend$paddleocr.coverage" NAME="paddleocr Coverage Results" MODIFIED="1617985660684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ocr/PaddleOCR" />
+  </component>
+</project>
